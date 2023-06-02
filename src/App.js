@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import TvShows from './components/TvShows';
+// import TvShows from './components/TvShows';
 import MyComponent from './NewComponent';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Home from './components/Home';
-import MovieDetails from './components/MovieDetails';
+// import Home from './components/Home';
+// import MovieDetails from './components/MovieDetails';
 import BookingForm from './components/BookingForm';
 import HomePage from './HomePage';
 
